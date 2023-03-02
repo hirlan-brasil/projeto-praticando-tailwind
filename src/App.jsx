@@ -61,7 +61,7 @@ function App() {
 
             {/*---- featured resort----*/}
             <div className="flex justify-center">
-                <div className="flex flex-col sm:flex-row items-center justify-center px-8 py-14 sm:space-y-0  sm:space-x-4 max-w-5xl">
+                <div className="sm:w-screen flex flex-col sm:flex-row items-center justify-center px-8 py-14 sm:space-y-0  sm:space-x-4 max-w-5xl">
                     <div className="sm:w-2/4 order-last sm:order-first">
                         <div className="text-xs text-gray-400 font-medium ">
                             <h2>RESORT EM DESTAQUE</h2>

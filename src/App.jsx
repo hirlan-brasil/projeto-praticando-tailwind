@@ -110,7 +110,7 @@ function App() {
                             </button>
                         </div>
                     </div>
-                    <div className="h-56 w-11/12 pb-4 sm:pb-0">
+                    <div className="h-56 w-11/12 sm:w-2/4 pb-4 sm:pb-0">
                         <Carousel
                             className="duration-700"
                             slideInterval={5000}
